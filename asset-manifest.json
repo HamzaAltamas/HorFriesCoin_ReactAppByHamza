@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HorFriesCoin_ReactAppByHamza/static/css/main.f3dce331.css",
+    "main.js": "/HorFriesCoin_ReactAppByHamza/static/js/main.ca040f91.js",
+    "static/js/787.71cc65cd.chunk.js": "/HorFriesCoin_ReactAppByHamza/static/js/787.71cc65cd.chunk.js",
+    "index.html": "/HorFriesCoin_ReactAppByHamza/index.html",
+    "main.f3dce331.css.map": "/HorFriesCoin_ReactAppByHamza/static/css/main.f3dce331.css.map",
+    "main.ca040f91.js.map": "/HorFriesCoin_ReactAppByHamza/static/js/main.ca040f91.js.map",
+    "787.71cc65cd.chunk.js.map": "/HorFriesCoin_ReactAppByHamza/static/js/787.71cc65cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3dce331.css",
+    "static/js/main.ca040f91.js"
+  ]
+}
